@@ -1,0 +1,101 @@
+.container{
+	width:1200px;
+	height:700px;
+	background:black;
+	margin:auto;
+}
+.header{
+	width:1200px;
+	height:70px;
+	background:blue;
+	float:bottom;
+}
+.logo{
+	width:300px;
+	height:70px;
+	background:linear-gradient(to right, red , yellow);
+	float:left;
+}
+.log{
+	font-size:30px;
+	text-align:center;
+	color:#1C2833;
+}
+.menu{
+	width:900px;
+	height:70px;
+	background:linear-gradient( #2C3E50 , #DAF7A6);
+	float:left;
+}
+.men{
+	font-size:30px;
+	text-align:center;
+	color:#1C2833;
+}
+.banner{
+	width:1200px;
+	height:300px;
+	background:linear-gradient( #E74C3C , #9213DF);
+	float:bottom;
+}
+.ban{
+	font-size:30px;
+	text-align:center;
+	color:#1C2833;
+	padding:100px 500px 100px 500px;
+}
+.content-part{
+	width:1200px;
+	height:260px;
+	background:green;
+}
+.left_column{
+	width:600px;
+	height:260px;
+	background:red;
+	float:left;
+}
+.lc1{
+	width:600px;
+	height:130px;
+	background:linear-gradient( #AB3CEF , #E3CBF1);
+}
+.p1{
+	font-size:30px;
+	text-align:center;
+	color:#1C2833;
+	padding:30px 200px 30px 200px;
+}
+.lc2{
+	width:600px;
+	height:130px;
+	background:linear-gradient( #2C3E50 , #0B0112);
+}
+.p2{
+	font-size:30px;
+	text-align:center;
+	color:white;
+	padding:30px 200px 30px 200px;
+}
+.right_column{
+	width:600px;
+	height:260px;
+	background:linear-gradient( #C70039 , #17202A);
+	float:left;
+}
+.rc{
+	font-size:30px;
+	text-align:center;
+	color:white;
+	padding:50px 200px 100px 200px;
+}
+.footer{
+	width:1200px;
+	height:70px;
+	background:linear-gradient( #AAB7B8 , #212F3C );
+}
+.foot{
+	font-size:30px;
+	text-align:center;
+	color:black;
+}
